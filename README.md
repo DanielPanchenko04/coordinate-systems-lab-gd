@@ -37,7 +37,7 @@
 
 ### Графіки результатів
 *Експеримент 2a (Розбіжність):*
-![Графік 2a](screenshots/task2a.jpg)
+![Графік 2a](screenshots/task2a.png)
 
 *Експеримент 2b (Стагнація):*
 ![Графік 2b](screenshots/task2b.png)
