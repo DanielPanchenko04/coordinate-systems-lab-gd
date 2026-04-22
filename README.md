@@ -37,7 +37,7 @@
 
 ### Графіки результатів
 *Експеримент 2a (Розбіжність):*
-![Графік 2a](screenshots/task2а.jpg)
+![Графік 2a](screenshots/task2a.jpg)
 
 *Експеримент 2b (Стагнація):*
 ![Графік 2b](screenshots/task2b.png)
@@ -68,7 +68,7 @@
 
 ### Графіки результатів
 *Експеримент 3a:*
-![Графік 3a](screenshots/task3а.png)
+![Графік 3a](screenshots/task3a.png)
 
 *Експеримент 3b:*
 ![Графік 3b](screenshots/task3b.png)
@@ -98,7 +98,7 @@
 
 ### Графіки результатів
 *Експеримент 4a (Добре):*
-![Графік 4a](screenshots/task4а.png)
+![Графік 4a](screenshots/task4a.png)
 
 *Експеримент 4c (Погане):*
 ![Графік 4b](screenshots/task4b.png)
@@ -131,7 +131,7 @@
 
 ### Графіки результатів
 *Експеримент 5a (Хороша геометрія):*
-![Графік 5a](screenshots/task5а.png)
+![Графік 5a](screenshots/task5a.png)
 
 *Експеримент 5b (Погана геометрія):*
 ![Графік 5b](screenshots/task5b.png)
@@ -161,7 +161,7 @@
 
 ### Графіки результатів
 *Експеримент 6a (Швидко і брудно):*
-![Графік 6a](screenshots/task6а.png)
+![Графік 6a](screenshots/task6a.png)
 
 *Експеримент 6b (Базовий):*
 ![Графік 6b](screenshots/task6b.png)
